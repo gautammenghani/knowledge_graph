@@ -38,3 +38,27 @@ export any symbols.
 modules on top of other modules. Module stacking is implemented in the main-
 stream kernel sources as well: the msdos filesystem relies on symbols exported by the
 fat module, and each input USB device module stacks on the usbcore and input modules.
+
+## Init and shutdown
+  1. Basic skeleton of init function
+     ```c
+        static int __init initialization_function(void)
+        {
+            /* Initialization code here */
+        }
+        module_init(initialization_function);
+     ```
+    - __init token  is a hint to the kernel that the given function is
+used only at initialization time. The module loader drops the initialization function
+after the module is loaded, making its memory available for other uses.
+  2. Modules can register many different types of facilities, including different kinds of devices, filesystems, cryptographic transforms, and more. For each facility, there is a specific kernel function that accomplishes this registration. The arguments passed to the kernel registration functions are usually pointers to data structures describing the new facility and the name of the facility being registered.
+  3. Most registration functions are prefixed with register\_, so another possible way to find them is to grep for register\_ in the kernel source. Also look for EXPORTSYMBOL
+  4. Cleanup function - 
+      ```c
+     		static void __exit cleanup\_function(void)
+				{
+						/* Cleanup code here */
+				}
+					module_exit(cleanup_function); 
+      ```
+
