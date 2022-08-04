@@ -4,6 +4,16 @@
 ## Blockchain security
 1. https://github.com/saeidshirazi/Awesome-Smart-Contract-Security
 
+## Web security
+1. [Understand HTTP smuggling in one article](https://blog.zeddyu.info/2019/12/08/HTTP-Smuggling-en/)
+
+## Cryptography
+1. [Breaking supersingular isogeny Diffie-Hellman (SIDH)](https://ellipticnews.wordpress.com/2022/07/31/breaking-supersingular-isogeny-diffie-hellman-sidh)
+
+## Tools
+### Reverse engineering
+1. [RE software using full system simulator](https://github.com/mfthomps/RESim)
+
 ## Writeups
 ### Binary exploitation
 1. Exploit a double free : https://github.com/stong/how-to-exploit-a-double-free
