@@ -8,3 +8,6 @@
 
 ## Hands on learning
 1. https://linux-kernel-labs.github.io/
+
+## QEMU
+1. [QEMU internals](https://airbus-seclab.github.io/qemu_blog)
