@@ -4,3 +4,6 @@
 
 ## Napkin math
 1. [Sirupsen's repo](https://github.com/sirupsen/napkin-math)
+
+## Systems programming
+1. [binarydebt blog](https://binarydebt.wordpress.com/)
