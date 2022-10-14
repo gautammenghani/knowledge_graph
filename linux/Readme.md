@@ -15,3 +15,6 @@
 ## Linux networking
 1. [Sending data](https://blog.packagecloud.io/monitoring-tuning-linux-networking-stack-sending-data/)
 2. [Receiving data](https://packagecloud.io/blog/monitoring-tuning-linux-networking-stack-receiving-data/)
+
+## IOMMU
+1. [Lenovo's article](https://lenovopress.lenovo.com/lp1467.pdf)
