@@ -5,6 +5,7 @@
 4. https://www.oreilly.com/library/view/understanding-the-linux/0596005652/ 
 5. https://lwn.net/Kernel/Index/ 
 6. https://tldp.org/LDP/lpg/
+7. [Notes by eddyerburgh](https://notes.eddyerburgh.me/operating-systems/linux)
 
 ## Hands on learning
 1. https://linux-kernel-labs.github.io/
