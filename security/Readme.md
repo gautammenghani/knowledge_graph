@@ -4,6 +4,9 @@
 ## Blockchain security
 1. https://github.com/saeidshirazi/Awesome-Smart-Contract-Security
 
+## Linux kernel security
+1. [Resource list by Alex Plaskett](https://twitter.com/alexjplaskett/status/1535189987846668288)
+
 ## Web security
 1. [Understand HTTP smuggling in one article](https://blog.zeddyu.info/2019/12/08/HTTP-Smuggling-en/)
 
@@ -18,6 +21,7 @@
 ### Binary exploitation
 1. Exploit a double free : https://github.com/stong/how-to-exploit-a-double-free
 2. Liveoverflow's playlist: https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
+3. [Kylebot's KCTF exploit](https://blog.kylebot.net/2022/10/16/CVE-2022-1786/)
 
 ## Blogs
 1. [graplsecurity](https://www.graplsecurity.com/blog)
