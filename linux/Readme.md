@@ -19,3 +19,6 @@
 
 ## IOMMU
 1. [Lenovo's article](https://lenovopress.lenovo.com/lp1467.pdf)
+
+## Kernel blogs
+1. [Austin kim's blog](http://rousalome.egloos.com/)
