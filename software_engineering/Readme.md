@@ -8,3 +8,6 @@
 ## Systems programming
 1. [binarydebt blog](https://binarydebt.wordpress.com/)
 2. [Hello world under the microscope](https://asawicki.info/articles/Hello_world_under_the_microscope.php5)
+
+## Perf
+1. [Johnnysswlab's blog](https://johnnysswlab.com)
