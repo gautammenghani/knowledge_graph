@@ -1,8 +1,10 @@
 ## Computer architecture
 1. [https://chipsandcheese.com](https://chipsandcheese.com)
 
-## Kernel blogs
+## Systems programming blogs
 1. [Austin kim's blog](http://rousalome.egloos.com/)
+2. [majek's blog](https://idea.popcount.org)
+3. [Russ Coxx's blog](https://research.swtch.com/)
 
 ## Security
 1. [https://blog.kylebot.net](https://blog.kylebot.net)
