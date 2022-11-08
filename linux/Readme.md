@@ -22,3 +22,6 @@
 
 ## Kernel blogs
 1. [Austin kim's blog](http://rousalome.egloos.com/)
+
+## File formats
+1. [Intezer's ELF posts](https://www.intezer.com/blog/research/executable-linkable-format-101-part1-sections-segments/)
