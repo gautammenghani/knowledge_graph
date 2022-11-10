@@ -9,3 +9,6 @@
 1. [binarydebt blog](https://binarydebt.wordpress.com/)
 2. [Hello world under the microscope](https://asawicki.info/articles/Hello_world_under_the_microscope.php5)
 
+## System design
+1. [Jordan's playlist](https://www.youtube.com/watch?v=ugVwhsWslAc&list=PLjTveVh7FakKjb4UYzUazqBNNF-WGurXp)
+
