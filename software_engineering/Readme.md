@@ -12,3 +12,5 @@
 ## System design
 1. [Jordan's playlist](https://www.youtube.com/watch?v=ugVwhsWslAc&list=PLjTveVh7FakKjb4UYzUazqBNNF-WGurXp)
 
+## Blogs/podcasts
+1. [Soft engg to understand backend of companies](https://softwareengineeringdaily.com/)
