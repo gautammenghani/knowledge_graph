@@ -1,5 +1,6 @@
 ## Computer architecture
 1. [https://chipsandcheese.com](https://chipsandcheese.com)
+2. [Sigarch's blog](https://www.sigarch.org/blog/)
 
 ## Systems programming blogs
 1. [Austin kim's blog](http://rousalome.egloos.com/)
