@@ -6,3 +6,4 @@
 2. [Intro to processor design](http://www.gamezero.com/team-0/articles/math_magic/micro/)
 3. [Ken Shirrif's blog](https://www.righto.com)
 4. [Designing a RISC V CPU](https://github.com/BrunoLevy/learn-fpga/blob/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV/README.md)
+5. [Virtualization internals by saferwall](https://docs.saferwall.com/blog/virtualization-internals-part-1-intro-to-virtualization)
