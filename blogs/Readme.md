@@ -7,6 +7,7 @@
 1. [Austin kim's blog](http://rousalome.egloos.com/)
 2. [majek's blog](https://idea.popcount.org)
 3. [Russ Coxx's blog](https://research.swtch.com/)
+4. [Matt keeter's blog](https://www.mattkeeter.com/blog/)
 
 ## Security
 1. [https://blog.kylebot.net](https://blog.kylebot.net)
