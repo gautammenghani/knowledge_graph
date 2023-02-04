@@ -15,3 +15,7 @@
 
 ## Blogs/podcasts
 1. [Soft engg to understand backend of companies](https://softwareengineeringdaily.com/)
+
+## Devops/SRE
+1. [Linux upskill](https://theleo.zone/posts/linux-upskill/)
+2. [Sadserver devops/sre practice](https://sadservers.com)
