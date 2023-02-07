@@ -1,5 +1,8 @@
 ## Learning resource
 1. https://github.com/stong/infosec-resources
+2. [Google scholar](https://scholar.google.com)
+3. [secdocs](https://www.secdocs.org/)
+4. [tuts4you](https://tuts4you.com)
 
 ## Blockchain security
 1. https://github.com/saeidshirazi/Awesome-Smart-Contract-Security
