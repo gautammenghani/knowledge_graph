@@ -14,7 +14,7 @@
 2. [https://www.graplsecurity.com/blog](https://www.graplsecurity.com/blog)
 3. [Gynvael's blog](https://gynvael.coldwind.pl)
 
-### Theoretical computer science
+## Theoretical computer science
 1. [Computational complexity blog](https://blog.computationalcomplexity.org)
 
 ## Perf
