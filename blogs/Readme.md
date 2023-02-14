@@ -17,6 +17,9 @@
 ## Theoretical computer science
 1. [Computational complexity blog](https://blog.computationalcomplexity.org)
 
+## Cryptography
+1. [Jeremy Kun's blog](http://jeremykun.com)
+
 ## Perf
 1. [Johnnysswlab's blog](https://johnnysswlab.com)
 
