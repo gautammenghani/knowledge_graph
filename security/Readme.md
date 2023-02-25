@@ -13,9 +13,6 @@
 ## Web security
 1. [Understand HTTP smuggling in one article](https://blog.zeddyu.info/2019/12/08/HTTP-Smuggling-en/)
 
-## Cryptography
-1. [Breaking supersingular isogeny Diffie-Hellman (SIDH)](https://ellipticnews.wordpress.com/2022/07/31/breaking-supersingular-isogeny-diffie-hellman-sidh)
-
 ## Binary exploitation
 1. Liveoverflow's playlist: https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN
 
