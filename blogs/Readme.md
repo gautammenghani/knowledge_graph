@@ -3,13 +3,14 @@
 2. [Sigarch's blog](https://www.sigarch.org/blog/)
 3. [Semiconductor engineering](https://semiengineering.com)
 
-## Systems programming blogs
+## Systems programming blogs / newsletters
 1. [Austin kim's blog](http://rousalome.egloos.com/)
 2. [majek's blog](https://idea.popcount.org)
 3. [Russ Coxx's blog](https://research.swtch.com/)
 4. [Matt keeter's blog](https://www.mattkeeter.com/blog/)
 5. [Robert Ocallahan's blog](https://robert.ocallahan.org/)
 6. [Danila Kutenin's blog](https://danlark.org)
+7. [Systems papers newsletter](https://newsletter.micahlerner.com/)
 
 ## Security
 1. [https://blog.kylebot.net](https://blog.kylebot.net)
