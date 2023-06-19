@@ -13,6 +13,9 @@
 ## System design
 1. [Jordan's playlist](https://www.youtube.com/watch?v=ugVwhsWslAc&list=PLjTveVh7FakKjb4UYzUazqBNNF-WGurXp)
 
+## Performance engg.
+1. [Top 7 books by jabperf](https://www.jabperf.com/my-top-7-performance-books-for-engineers/)
+
 ## Blogs/podcasts
 1. [Soft engg to understand backend of companies](https://softwareengineeringdaily.com/)
 
