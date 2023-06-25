@@ -25,6 +25,7 @@
 
 ## Perf
 1. [Johnnysswlab's blog](https://johnnysswlab.com)
+2. [Denis's blog - easyperf](https://easyperf.net/)
 
 ## Interesting stuff
 1. [Ten minute physics blog](https://matthias-research.github.io/pages/tenMinutePhysics/index.html)
